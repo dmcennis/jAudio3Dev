@@ -5,6 +5,8 @@ jAudio is a Digital Signal Processing project built to provide an easy-to-use pr
 
 The application can be used through a GUI, a command-line interface, and with embedding support.  Help is best from the extensive in-application help system (requiring MultiHelp).  The [git archive](https://github.com/dmcennis/jAudioGIT/tree/master/extras/help/en_US) contains this documentation tree as well.
 
+The project is currently under LGPL license as it is still using features from Cory McKay and code from University from McGill under that license. Once the code under that license has been completely obsoleted, the code will become under the Apache 2.0 license.
+
 How to cite
 
 If used in distributed use: McEnnis, Daniel, Cory McKay, Ichiro Fujinaga. 2006. "Overview of On-demand metadata extraction network (OMEN)". ISMIR.
